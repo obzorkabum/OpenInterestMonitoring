@@ -1,0 +1,444 @@
+2023-12-04 09:21:06,105 DEBUG Initializing HTTP session.
+2023-12-04 09:21:06,111 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:21:06,443 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/orderbook?category=linear&symbol=BTCUSDT HTTP/1.1" 200 None
+2023-12-04 09:23:35,303 DEBUG Initializing HTTP session.
+2023-12-04 09:23:35,309 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:23:35,588 DEBUG https://api.bybit.com:443 "GET /v5/market/orderbook?category=linear&symbol=BTCUSDT HTTP/1.1" 200 None
+2023-12-04 09:23:35,788 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest HTTP/1.1" 200 149
+2023-12-04 09:23:49,811 DEBUG Initializing HTTP session.
+2023-12-04 09:23:49,817 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:23:50,471 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/orderbook?category=linear&symbol=BTCUSDT HTTP/1.1" 200 None
+2023-12-04 09:23:51,012 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest HTTP/1.1" 200 149
+2023-12-04 09:24:06,500 DEBUG Initializing HTTP session.
+2023-12-04 09:24:06,505 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:24:06,756 DEBUG https://api.bybit.com:443 "GET /v5/market/orderbook?category=linear&symbol=BTCUSDT HTTP/1.1" 200 None
+2023-12-04 09:31:00,175 DEBUG Initializing HTTP session.
+2023-12-04 09:31:00,175 DEBUG Initializing HTTP session.
+2023-12-04 09:31:00,181 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:31:00,727 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=5min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 09:31:18,599 DEBUG Initializing HTTP session.
+2023-12-04 09:31:18,599 DEBUG Initializing HTTP session.
+2023-12-04 09:31:18,605 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:31:18,858 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=1min&symbol=BTCUSD HTTP/1.1" 200 144
+2023-12-04 09:31:28,504 DEBUG Initializing HTTP session.
+2023-12-04 09:31:28,504 DEBUG Initializing HTTP session.
+2023-12-04 09:31:28,510 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:31:28,764 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=1min&symbol=BTCUSD HTTP/1.1" 200 144
+2023-12-04 09:31:38,738 DEBUG Initializing HTTP session.
+2023-12-04 09:31:38,738 DEBUG Initializing HTTP session.
+2023-12-04 09:31:38,746 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:31:38,994 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=3min&symbol=BTCUSD HTTP/1.1" 200 144
+2023-12-04 09:31:45,145 DEBUG Initializing HTTP session.
+2023-12-04 09:31:45,145 DEBUG Initializing HTTP session.
+2023-12-04 09:31:45,150 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 09:31:45,405 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=5min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 09:40:41,711 DEBUG Initializing HTTP session.
+2023-12-04 09:40:41,717 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:40:41,980 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=inverse&interval=60&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 09:42:19,222 DEBUG Initializing HTTP session.
+2023-12-04 09:42:19,227 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:42:19,480 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=spot&interval=60&symbol=BTCUSD HTTP/1.1" 200 99
+2023-12-04 09:42:38,484 DEBUG Initializing HTTP session.
+2023-12-04 09:42:38,489 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:42:38,769 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=spot&interval=60&symbol=BTCUSD HTTP/1.1" 200 99
+2023-12-04 09:44:30,466 DEBUG Initializing HTTP session.
+2023-12-04 09:44:30,473 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:44:30,733 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=spot&interval=60&symbol=BTCUSD HTTP/1.1" 200 99
+2023-12-04 09:44:44,636 DEBUG Initializing HTTP session.
+2023-12-04 09:44:44,642 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:44:44,925 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=spot&end=1670608800000&interval=60&start=1670601600000&symbol=BTCUSD HTTP/1.1" 200 99
+2023-12-04 09:45:34,917 DEBUG Initializing HTTP session.
+2023-12-04 09:45:34,922 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:45:35,173 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=spot&interval=60&symbol=BTCUSD HTTP/1.1" 200 99
+2023-12-04 09:45:54,845 DEBUG Initializing HTTP session.
+2023-12-04 09:45:54,850 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:45:55,367 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=linear&interval=60&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 09:46:20,296 DEBUG Initializing HTTP session.
+2023-12-04 09:46:20,301 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 09:46:20,558 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=linear&interval=1&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:50:22,978 DEBUG Initializing HTTP session.
+2023-12-04 10:50:22,982 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 10:50:23,419 DEBUG https://api.bybit.com:443 "GET /v5/market/kline?category=linear&interval=1&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:51:08,825 DEBUG Initializing HTTP session.
+2023-12-04 10:51:08,826 DEBUG Initializing HTTP session.
+2023-12-04 10:51:08,830 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 10:51:09,091 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:54:11,527 DEBUG Initializing HTTP session.
+2023-12-04 10:54:11,528 DEBUG Initializing HTTP session.
+2023-12-04 10:54:11,532 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 10:54:11,797 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:54:25,023 DEBUG Initializing HTTP session.
+2023-12-04 10:54:25,024 DEBUG Initializing HTTP session.
+2023-12-04 10:54:25,027 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 10:54:25,282 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:54:44,956 DEBUG Initializing HTTP session.
+2023-12-04 10:54:44,956 DEBUG Initializing HTTP session.
+2023-12-04 10:54:44,960 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 10:54:45,232 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:57:33,855 DEBUG Initializing HTTP session.
+2023-12-04 10:57:33,856 DEBUG Initializing HTTP session.
+2023-12-04 10:57:33,860 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-04 10:57:34,115 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:57:59,886 DEBUG Initializing HTTP session.
+2023-12-04 10:57:59,890 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 10:58:00,295 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:58:17,606 DEBUG Initializing HTTP session.
+2023-12-04 10:58:17,610 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 10:58:17,856 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:58:26,499 DEBUG Initializing HTTP session.
+2023-12-04 10:58:26,503 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 10:58:26,766 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:58:32,147 DEBUG Initializing HTTP session.
+2023-12-04 10:58:32,151 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 10:58:32,419 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 10:58:49,428 DEBUG Initializing HTTP session.
+2023-12-04 10:58:49,432 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 10:58:49,772 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:01:55,919 DEBUG Initializing HTTP session.
+2023-12-04 11:01:55,923 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:01:56,172 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:02:24,000 DEBUG Initializing HTTP session.
+2023-12-04 11:02:24,004 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:02:24,271 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:03:37,035 DEBUG Initializing HTTP session.
+2023-12-04 11:03:37,039 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:03:37,312 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:05:18,373 DEBUG Initializing HTTP session.
+2023-12-04 11:05:18,377 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:05:18,638 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:05:32,667 DEBUG Initializing HTTP session.
+2023-12-04 11:05:32,671 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:05:33,293 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:06:15,098 DEBUG Initializing HTTP session.
+2023-12-04 11:06:15,102 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:06:15,363 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:42:45,374 DEBUG Initializing HTTP session.
+2023-12-04 11:42:45,378 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:42:45,675 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 11:43:51,339 DEBUG Initializing HTTP session.
+2023-12-04 11:43:51,355 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 11:43:51,632 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:30:22,196 DEBUG Initializing HTTP session.
+2023-12-04 12:30:22,200 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:30:22,527 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:30:32,156 DEBUG Initializing HTTP session.
+2023-12-04 12:30:32,159 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:30:32,423 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:31:08,641 DEBUG Initializing HTTP session.
+2023-12-04 12:31:08,645 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:31:08,913 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:31:33,971 DEBUG Initializing HTTP session.
+2023-12-04 12:31:33,975 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:31:34,216 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:31:42,995 DEBUG Initializing HTTP session.
+2023-12-04 12:31:42,997 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:31:43,247 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:32:13,386 DEBUG Initializing HTTP session.
+2023-12-04 12:32:13,390 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:32:13,663 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:36:56,353 DEBUG Initializing HTTP session.
+2023-12-04 12:36:56,358 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:36:56,633 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:37:01,581 DEBUG Initializing HTTP session.
+2023-12-04 12:37:01,585 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:37:01,917 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:42:46,101 DEBUG Initializing HTTP session.
+2023-12-04 12:42:46,107 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:42:46,363 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:43:00,069 DEBUG Initializing HTTP session.
+2023-12-04 12:43:00,074 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:43:00,318 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:43:17,664 DEBUG Initializing HTTP session.
+2023-12-04 12:43:17,669 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:43:17,920 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:43:43,627 DEBUG Initializing HTTP session.
+2023-12-04 12:43:43,632 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:43:43,982 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:44:07,034 DEBUG Initializing HTTP session.
+2023-12-04 12:44:07,040 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:44:07,292 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:45:14,299 DEBUG Initializing HTTP session.
+2023-12-04 12:45:14,304 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:45:15,529 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:45:37,646 DEBUG Initializing HTTP session.
+2023-12-04 12:45:37,652 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:45:37,901 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 3484
+2023-12-04 12:46:06,161 DEBUG Initializing HTTP session.
+2023-12-04 12:46:06,167 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:46:06,415 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:46:52,740 DEBUG Initializing HTTP session.
+2023-12-04 12:46:52,746 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:46:53,004 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:48:50,312 DEBUG Initializing HTTP session.
+2023-12-04 12:48:50,318 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:48:50,567 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:48:59,530 DEBUG Initializing HTTP session.
+2023-12-04 12:48:59,536 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:48:59,794 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 3484
+2023-12-04 12:49:07,849 DEBUG Initializing HTTP session.
+2023-12-04 12:49:07,867 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:49:08,119 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:50:41,840 DEBUG Initializing HTTP session.
+2023-12-04 12:50:41,845 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:50:42,190 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:55:40,499 DEBUG Initializing HTTP session.
+2023-12-04 12:55:40,505 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:55:41,134 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 12:55:52,568 DEBUG Initializing HTTP session.
+2023-12-04 12:55:52,574 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:55:52,830 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 3484
+2023-12-04 12:55:58,133 DEBUG Initializing HTTP session.
+2023-12-04 12:55:58,138 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 12:55:58,375 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:01:26,015 DEBUG Initializing HTTP session.
+2023-12-04 13:01:26,021 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:01:26,289 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:01:45,563 DEBUG Initializing HTTP session.
+2023-12-04 13:01:45,568 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:01:45,816 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:01:57,053 DEBUG Initializing HTTP session.
+2023-12-04 13:01:57,059 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:01:57,325 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:02:31,535 DEBUG Initializing HTTP session.
+2023-12-04 13:02:31,540 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:02:31,783 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:02:50,616 DEBUG Initializing HTTP session.
+2023-12-04 13:02:50,621 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:02:50,881 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:02:57,253 DEBUG Initializing HTTP session.
+2023-12-04 13:02:57,258 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:02:57,517 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:03:04,507 DEBUG Initializing HTTP session.
+2023-12-04 13:03:04,514 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:03:04,763 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:03:09,595 DEBUG Initializing HTTP session.
+2023-12-04 13:03:09,600 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:03:09,847 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:03:31,801 DEBUG Initializing HTTP session.
+2023-12-04 13:03:31,806 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:03:32,046 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:08:06,718 DEBUG Initializing HTTP session.
+2023-12-04 13:08:06,724 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:08:07,148 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:09:13,997 DEBUG Initializing HTTP session.
+2023-12-04 13:09:14,003 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:09:14,485 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:12:03,662 DEBUG Initializing HTTP session.
+2023-12-04 13:12:03,668 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:12:04,531 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:15:26,272 DEBUG Initializing HTTP session.
+2023-12-04 13:15:26,277 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:15:26,528 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:15:49,303 DEBUG Initializing HTTP session.
+2023-12-04 13:15:49,308 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:15:49,922 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 3484
+2023-12-04 13:16:09,367 DEBUG Initializing HTTP session.
+2023-12-04 13:16:09,374 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:16:09,971 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 3484
+2023-12-04 13:16:26,656 DEBUG Initializing HTTP session.
+2023-12-04 13:16:26,661 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:16:26,925 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:16:30,683 DEBUG Initializing HTTP session.
+2023-12-04 13:16:30,689 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:16:30,932 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:16:32,512 DEBUG Initializing HTTP session.
+2023-12-04 13:16:32,518 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:16:32,779 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:16:38,869 DEBUG Initializing HTTP session.
+2023-12-04 13:16:38,874 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:16:39,138 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=15min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:16:50,801 DEBUG Initializing HTTP session.
+2023-12-04 13:16:50,806 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:16:51,056 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:17:01,772 DEBUG Initializing HTTP session.
+2023-12-04 13:17:01,778 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:17:02,035 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:17:17,961 DEBUG Initializing HTTP session.
+2023-12-04 13:17:17,967 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:17:18,215 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:19:51,555 DEBUG Initializing HTTP session.
+2023-12-04 13:19:51,562 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:19:52,105 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:20:43,411 DEBUG Initializing HTTP session.
+2023-12-04 13:20:43,416 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:20:43,673 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=4h&symbol=BTCUSD HTTP/1.1" 200 3484
+2023-12-04 13:20:59,020 DEBUG Initializing HTTP session.
+2023-12-04 13:20:59,025 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:20:59,281 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=4h&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:21:11,103 DEBUG Initializing HTTP session.
+2023-12-04 13:21:11,109 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:21:11,374 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=inverse&intervalTime=1d&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:21:40,425 DEBUG Initializing HTTP session.
+2023-12-04 13:21:40,431 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:21:40,701 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=1d&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:22:51,859 DEBUG Initializing HTTP session.
+2023-12-04 13:22:51,864 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:22:52,128 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:23:02,075 DEBUG Initializing HTTP session.
+2023-12-04 13:23:02,080 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:23:02,336 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:23:04,754 DEBUG Initializing HTTP session.
+2023-12-04 13:23:04,759 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:23:05,015 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=30min&symbol=BTCUSD HTTP/1.1" 200 None
+2023-12-04 13:31:30,236 DEBUG Initializing HTTP session.
+2023-12-04 13:31:30,243 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:31:30,502 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=30min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-04 13:31:40,664 DEBUG Initializing HTTP session.
+2023-12-04 13:31:40,671 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:31:40,918 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=1d&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-04 13:32:34,729 DEBUG Initializing HTTP session.
+2023-12-04 13:32:34,735 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:32:35,276 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=1d&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-04 13:33:12,128 DEBUG Initializing HTTP session.
+2023-12-04 13:33:12,134 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-04 13:33:12,392 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 07:43:07,152 DEBUG Initializing HTTP session.
+2023-12-05 07:43:07,533 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 07:43:12,478 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 07:43:12,750 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 07:43:13,079 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 07:43:36,938 DEBUG Initializing HTTP session.
+2023-12-05 07:43:36,943 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 07:43:37,190 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 07:43:37,193 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 07:43:37,431 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:10:41,077 DEBUG Initializing HTTP session.
+2023-12-05 08:10:41,082 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:10:41,352 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:10:41,354 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:10:41,643 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:10:45,819 DEBUG Initializing HTTP session.
+2023-12-05 08:10:45,825 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:10:46,086 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:10:46,091 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:10:46,683 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:19:40,935 DEBUG Initializing HTTP session.
+2023-12-05 08:19:40,940 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:19:41,208 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:19:41,212 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:19:41,723 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:19:59,046 DEBUG Initializing HTTP session.
+2023-12-05 08:19:59,052 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:19:59,434 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:19:59,438 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:19:59,692 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:21:26,637 DEBUG Initializing HTTP session.
+2023-12-05 08:21:26,642 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:21:26,907 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:21:26,910 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:21:27,212 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:21:47,975 DEBUG Initializing HTTP session.
+2023-12-05 08:21:47,981 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:21:48,229 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:21:48,233 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:21:48,478 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:22:05,286 DEBUG Initializing HTTP session.
+2023-12-05 08:22:05,312 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:22:05,567 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:22:05,571 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:22:05,812 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:22:29,738 DEBUG Initializing HTTP session.
+2023-12-05 08:22:29,744 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:22:29,999 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:22:30,003 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:22:30,316 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:23:22,582 DEBUG Initializing HTTP session.
+2023-12-05 08:23:22,588 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:23:22,834 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:23:22,838 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:23:23,091 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:24:11,549 DEBUG Initializing HTTP session.
+2023-12-05 08:24:11,555 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:24:11,814 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:24:11,819 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:24:12,126 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:24:22,305 DEBUG Initializing HTTP session.
+2023-12-05 08:24:22,311 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:24:22,570 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 3439
+2023-12-05 08:24:22,574 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:24:22,824 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:26:48,389 DEBUG Initializing HTTP session.
+2023-12-05 08:26:48,394 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:26:48,750 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:26:48,754 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:26:49,090 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:27:16,769 DEBUG Initializing HTTP session.
+2023-12-05 08:27:16,774 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:27:17,053 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:27:17,057 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:27:17,309 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:27:34,714 DEBUG Initializing HTTP session.
+2023-12-05 08:27:34,719 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:27:34,964 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:27:34,969 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:27:35,215 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:27:45,957 DEBUG Initializing HTTP session.
+2023-12-05 08:27:45,966 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:27:46,302 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 3439
+2023-12-05 08:27:46,306 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:27:46,546 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:28:12,937 DEBUG Initializing HTTP session.
+2023-12-05 08:28:12,942 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:28:13,186 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:28:13,188 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:28:13,493 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:28:28,319 DEBUG Initializing HTTP session.
+2023-12-05 08:28:28,324 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:28:28,571 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:28:28,576 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:28:28,830 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:28:40,323 DEBUG Initializing HTTP session.
+2023-12-05 08:28:40,328 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:28:40,577 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:28:40,580 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:28:40,826 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:29:08,998 DEBUG Initializing HTTP session.
+2023-12-05 08:29:09,004 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:29:09,257 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:29:09,262 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:29:09,521 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:29:53,340 DEBUG Initializing HTTP session.
+2023-12-05 08:29:53,346 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:29:53,610 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 3439
+2023-12-05 08:29:53,614 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:29:54,043 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:30:03,596 DEBUG Initializing HTTP session.
+2023-12-05 08:30:03,602 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:30:03,962 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:30:03,966 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:30:04,206 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:30:37,826 DEBUG Initializing HTTP session.
+2023-12-05 08:30:37,831 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:30:38,080 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 3439
+2023-12-05 08:30:38,084 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:30:38,342 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:30:42,832 DEBUG Initializing HTTP session.
+2023-12-05 08:30:42,838 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:30:43,445 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:30:43,450 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:30:43,709 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:30:46,456 DEBUG Initializing HTTP session.
+2023-12-05 08:30:46,461 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:30:46,710 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:30:46,714 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:30:46,954 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:31:09,490 DEBUG Initializing HTTP session.
+2023-12-05 08:31:09,495 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:31:09,772 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:31:09,776 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:31:10,098 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:31:15,875 DEBUG Initializing HTTP session.
+2023-12-05 08:31:15,880 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:31:16,151 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:31:16,155 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:31:16,401 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:32:32,191 DEBUG Initializing HTTP session.
+2023-12-05 08:32:32,197 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:32:32,831 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 3439
+2023-12-05 08:32:32,835 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:32:33,154 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
+2023-12-05 08:40:14,441 DEBUG Initializing HTTP session.
+2023-12-05 08:40:14,446 DEBUG Starting new HTTPS connection (1): api.bybit.com:443
+2023-12-05 08:40:14,701 DEBUG https://api.bybit.com:443 "GET /v5/market/open-interest?category=linear&intervalTime=15min&symbol=1000LUNCUSDT HTTP/1.1" 200 None
+2023-12-05 08:40:14,705 DEBUG Starting new HTTPS connection (1): api-testnet.bybit.com:443
+2023-12-05 08:40:15,017 DEBUG https://api-testnet.bybit.com:443 "GET /v5/market/time HTTP/1.1" 200 134
